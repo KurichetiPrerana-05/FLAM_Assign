@@ -131,6 +131,11 @@ the program prints:
 - Total L1 loss
 
 ---
+# References
+1. SciPy Documentation for Differential Evolution
+   https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html
+2. Desmos Parametric Graph for analysis
+   https://www.desmos.com/calculator/rfj91yrxob
 
 
 
