@@ -46,7 +46,7 @@ The input csv file contains sampled '(x,y)' coordinates from the unknown curve.
 The data is loaded by importing pandas and converted into a NumPy array.
 
 ---
-### 2. generating the curve
+### 2. Generating the curve
 
 The parametric curve is generated using:
 -θ (rotation)
